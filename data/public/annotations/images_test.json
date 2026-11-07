@@ -1,0 +1,231 @@
+{
+  "info": {
+    "description": "Penn-Fudan Pedestrian Dataset \u2014 Competition Build",
+    "url": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "version": "1.0",
+    "year": 2007,
+    "contributor": "Liming Wang, Jianbo Shi, Gang Song, I-fan Shen",
+    "date_created": "2007"
+  },
+  "licenses": [],
+  "categories": [
+    {
+      "id": 1,
+      "name": "pedestrian",
+      "supercategory": "person"
+    }
+  ],
+  "images": [
+    {
+      "id": 136,
+      "file_name": "FudanPed00002.png",
+      "width": 455,
+      "height": 414
+    },
+    {
+      "id": 137,
+      "file_name": "FudanPed00007.png",
+      "width": 539,
+      "height": 381
+    },
+    {
+      "id": 138,
+      "file_name": "FudanPed00008.png",
+      "width": 388,
+      "height": 454
+    },
+    {
+      "id": 139,
+      "file_name": "FudanPed00009.png",
+      "width": 465,
+      "height": 441
+    },
+    {
+      "id": 140,
+      "file_name": "FudanPed00023.png",
+      "width": 376,
+      "height": 378
+    },
+    {
+      "id": 141,
+      "file_name": "FudanPed00024.png",
+      "width": 479,
+      "height": 378
+    },
+    {
+      "id": 142,
+      "file_name": "FudanPed00027.png",
+      "width": 302,
+      "height": 363
+    },
+    {
+      "id": 143,
+      "file_name": "FudanPed00029.png",
+      "width": 435,
+      "height": 404
+    },
+    {
+      "id": 144,
+      "file_name": "FudanPed00036.png",
+      "width": 1017,
+      "height": 444
+    },
+    {
+      "id": 145,
+      "file_name": "FudanPed00040.png",
+      "width": 550,
+      "height": 482
+    },
+    {
+      "id": 146,
+      "file_name": "FudanPed00041.png",
+      "width": 552,
+      "height": 507
+    },
+    {
+      "id": 147,
+      "file_name": "FudanPed00051.png",
+      "width": 448,
+      "height": 501
+    },
+    {
+      "id": 148,
+      "file_name": "FudanPed00056.png",
+      "width": 565,
+      "height": 581
+    },
+    {
+      "id": 149,
+      "file_name": "FudanPed00057.png",
+      "width": 482,
+      "height": 519
+    },
+    {
+      "id": 150,
+      "file_name": "FudanPed00058.png",
+      "width": 522,
+      "height": 479
+    },
+    {
+      "id": 151,
+      "file_name": "FudanPed00060.png",
+      "width": 517,
+      "height": 440
+    },
+    {
+      "id": 152,
+      "file_name": "FudanPed00063.png",
+      "width": 486,
+      "height": 359
+    },
+    {
+      "id": 153,
+      "file_name": "FudanPed00071.png",
+      "width": 363,
+      "height": 353
+    },
+    {
+      "id": 154,
+      "file_name": "FudanPed00072.png",
+      "width": 375,
+      "height": 349
+    },
+    {
+      "id": 155,
+      "file_name": "PennPed00013.png",
+      "width": 564,
+      "height": 385
+    },
+    {
+      "id": 156,
+      "file_name": "PennPed00014.png",
+      "width": 542,
+      "height": 368
+    },
+    {
+      "id": 157,
+      "file_name": "PennPed00034.png",
+      "width": 538,
+      "height": 422
+    },
+    {
+      "id": 158,
+      "file_name": "PennPed00035.png",
+      "width": 623,
+      "height": 353
+    },
+    {
+      "id": 159,
+      "file_name": "PennPed00041.png",
+      "width": 570,
+      "height": 422
+    },
+    {
+      "id": 160,
+      "file_name": "PennPed00056.png",
+      "width": 618,
+      "height": 420
+    },
+    {
+      "id": 161,
+      "file_name": "PennPed00066.png",
+      "width": 428,
+      "height": 375
+    },
+    {
+      "id": 162,
+      "file_name": "PennPed00070.png",
+      "width": 466,
+      "height": 354
+    },
+    {
+      "id": 163,
+      "file_name": "PennPed00071.png",
+      "width": 767,
+      "height": 379
+    },
+    {
+      "id": 164,
+      "file_name": "PennPed00078.png",
+      "width": 349,
+      "height": 372
+    },
+    {
+      "id": 165,
+      "file_name": "PennPed00081.png",
+      "width": 561,
+      "height": 387
+    },
+    {
+      "id": 166,
+      "file_name": "PennPed00085.png",
+      "width": 403,
+      "height": 341
+    },
+    {
+      "id": 167,
+      "file_name": "PennPed00088.png",
+      "width": 375,
+      "height": 320
+    },
+    {
+      "id": 168,
+      "file_name": "PennPed00089.png",
+      "width": 428,
+      "height": 317
+    },
+    {
+      "id": 169,
+      "file_name": "PennPed00090.png",
+      "width": 500,
+      "height": 370
+    },
+    {
+      "id": 170,
+      "file_name": "PennPed00094.png",
+      "width": 422,
+      "height": 349
+    }
+  ],
+  "annotations": []
+}
